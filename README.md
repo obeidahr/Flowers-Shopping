@@ -1,6 +1,8 @@
 # plant_shop
 
 A new Flutter project.
+![image](https://github.com/obeidahr/Flowers-Shopping/assets/92803591/d7523189-ebbd-4460-8137-fef863ba0338)
+![image](https://github.com/obeidahr/Flowers-Shopping/assets/92803591/5386f342-cc6d-482f-bac9-da15e772ee05)
 
 ## Getting Started
 
